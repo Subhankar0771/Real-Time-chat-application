@@ -48,5 +48,5 @@ Organization: CodTech IT Solution
 This project provided me with valuable experience in real-time web development and helped strengthen my frontend and socket programming skills. The guidance from my mentor was instrumental in completing this project successfully.
 
 
-<!-- Uploading "Screenshot 2025-07-13 141347.png"... -->
-<!-- Uploading "Screenshot 2025-07-13 141405.png"... -->
+<img width="1260" height="626" alt="Image" src="https://github.com/user-attachments/assets/69137f9b-e9fb-40c0-ad6a-927b33dc3551" />
+<img width="1236" height="582" alt="Image" src="https://github.com/user-attachments/assets/6701acf0-7433-4a6a-aeb8-a05ce48fc545" />
